@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 Discord: Man Of Eggs#2728
+- Also a huge fan of Sonic The Hedgehog, some of you can probably tell by my name.
 
 <!---
 Nitrohedge21/Nitrohedge21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
