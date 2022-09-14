@@ -2,7 +2,7 @@
 - 👀 I’m interested in making 2D Games!
 - 🌱 I’m currently learning C# but know a bit of C++ as well.
 - 💞️ I’m looking to collaborate on ...
-- 📫 Discord: Man Of Eggs#2728
+- 📫 Discord: Nitrohedge21#2728
 - Also a huge fan of Sonic The Hedgehog, some of you can probably tell by my name.
 - Check out my Portfolio! https://ersanoguz21.wixsite.com/page
 <!---
