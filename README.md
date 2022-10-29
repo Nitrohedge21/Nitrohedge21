@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nitrohedge21
-- 👀 I’m interested in making 2D Games!
-- 🌱 I’m currently learning C# but know a bit of C++ as well.
+- 👀 I’m interested in making 2D Games but also started working on 3D projects as well!
+- 🌱 I’m currently learning C# and C++ by using Unity and UE5 C++!
 - 💞️ I’m looking to collaborate on ...
 - 📫 Discord: Nitrohedge21#2728
 - Also a huge fan of Sonic The Hedgehog, some of you can probably tell by my name.
